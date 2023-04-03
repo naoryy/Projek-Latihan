@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+}
+
+#container {
+    margin-top: 50vh;
+}
+
+#card {
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
